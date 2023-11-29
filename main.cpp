@@ -18,6 +18,7 @@ void menu() {
 }
 
 int main() {
+
     menu();
 
     int selection = 0;
